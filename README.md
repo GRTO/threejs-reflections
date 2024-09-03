@@ -1,4 +1,4 @@
-![Capture d'écran 2023-03-08 111345](https://user-images.githubusercontent.com/5593293/223686025-03039501-6210-4032-98e9-cc2cca840a7f.png)
+![Water Reflections](./src/public/img/water-reflections.png)
 
 
 # Vite template builder to quickly generate Threejs code in the browser.
@@ -7,7 +7,6 @@ This repository will help creating 3D environment using [Threejs](https://threej
 
 It is also including a LoaderManager JS file to easily load your assets: (Image, Textures, 3D models...) in one function.
 
-## [See it live](https://robpayot.github.io/vite-threejs-template/)
 
 ## How to install
 
